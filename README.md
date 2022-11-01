@@ -1,7 +1,7 @@
 # Bug-Tracking-System
 Bug Tracking System is the application is implemented on Java platform is designed to track the status of bugs that are reported during Software testing.
 
-.........EXISTING SYSTEM
+.........EXISTING SYSTEM :
 The bugs that are identified by tester in software testing phase are reported to Project Manager and 
 developer through simple shared lists and emails. Most of the companies share this information 
 through document called “Defect report”. This procedure is error prone and there is ample chance 
@@ -10,7 +10,7 @@ team involved in the software development life cycle must be aware of the status
 bug reported. The existing system fails to fulfill this requirement thus it affects productivity and 
 accountability of every member of team.
 
-..........PROPOSED SYSTEM
+..........PROPOSED SYSTEM :
 Bug tracking system is essentially and effectively implemented to monitor the status of bugs in an 
 application. All the bugs that are identified are stored in a database. Each bug is assigned with an 
 unique bug id and respective status of bug. Bugs can be created and updated with ease. Specific 
@@ -21,13 +21,13 @@ using report generation option.
 This web-based business application is a great tool for assigning and tracking issues and tasks 
 during software development and any other projects that involve teams of two or more people.
 
->>>>>>>>>Modules
+Modules
 This application is divided into following modules:
 o Project Manager/Admin
 o Developer
 o Tester
 
->>>>>>>>>Module Description
+Module Description
 
 ************Project Manager/Admin*************
 o Admin can add new user or can update the details of the existing user
